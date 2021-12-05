@@ -61,7 +61,8 @@ del b['dina']
 # PERTEMUAN 10 (TUGAS PRAKTIKUM)
 pada tugas praktium saya diberi soal sebagai berikut
 ![img](gambar/soal2.PNG) 
-
+## flowvhart
+![img](flowchart.PNG)
 ## JAWAB
 pertama saya membuat looping agar program terus berjalan
 ```py
